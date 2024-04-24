@@ -11,3 +11,5 @@
 - **Data Science**: An interdisciplinary field that uses scientific methods, processes, algorithms, and systems to extract knowledge and insights from structured and unstructured data.
 
 - **Data Team**: A group of professionals responsible for collecting, analyzing, and interpreting data, turning it into actionable insights.
+
+-**Digital Signal Processing**: A field of engineering that focuses on the manipulation and analysis of digital signals. Deals with the representation, processing, modeling, and analysis of signals, information and physical phenomena. 
